@@ -10,4 +10,4 @@ rq词典单词词库与例句数据，包含103976个单词与141714条例句数
 1.先在MySql数据库新建一个数据库，名称随意。
 2.然后执行这两个sql脚本即可。
 
-注：examples表中word_id列是关联的vocabulary表的id列
+注：examples表中wordid列是关联的vocabulary表的id列
